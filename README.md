@@ -1,13 +1,18 @@
 # working_project
 > [!NOTE]
 > THIS REPOSITORY IS JUST A REPO SHOWING SOME FEW SELECTED PARTS OF THE PROJECT, AND DOES NOT SHOW THE FULL PROJECT.
+> [!IMPORTANT]
+> THIS PROJECT IS BOUND TO SHELL AND ONLY WORKS ON A TERMINAL,FURTHER UPGRADE OF THE PROJECT HAS BEEN INCORPORATED INTO A TELEGRAM BOT AND ALSO BEEN INTEGRATED INTO TKinter for GUI
 
 ### ***Python project to store workers and their individual information and also to control inventory database, logging of changes, logging of information of worker that made specific changes***
+
+### ***This project involves the integration of sqlite3 for handling sql commands and Pandas for handling the .CSV databases***
+
     The databases format used in this project were
        SQL
        .CSV file
        
-This project involves the integration of sqlite3 for handling sql commands and Pandas for handling the .CSV databases
+
 
  
 **The database control of wokers and their information using Python + SQL**
